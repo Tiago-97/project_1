@@ -1,0 +1,23 @@
+{
+ "subject_id": "EOT1D_1", 
+ "creation_time": "2020-05-31T17:17:48Z", 
+ "report_version": "1.2", 
+ "report_type": "hla_typing", 
+ "sample_id": "EOT1D_1", 
+ "hla": {
+  "alleles": [
+   "A*02:01", 
+   "A*24:02", 
+   "B*08:01", 
+   "B*18:01", 
+   "C*07:01", 
+   "C*12:03", 
+   "DPB1*105:01", 
+   "DPB1*10:01", 
+   "DQB1*02:01", 
+   "DQB1*05:02", 
+   "DRB1*03:01", 
+   "DRB1*16:01"
+  ]
+ }
+}
